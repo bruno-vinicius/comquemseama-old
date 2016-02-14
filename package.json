@@ -1,0 +1,25 @@
+{
+  "name": "comquemseama",
+  "version": "0.0.0",
+  "description": "site de casamento",
+  "main": "index.js",
+  "scripts": {
+	"start": "http-server ./public -a localhost -p 9100",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno-vinicius/comquemseama.git"
+  },
+  "author": "Bruno e Sofia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruno-vinicius/comquemseama/issues"
+  },
+  "devDependencies": {
+   "bower": "~1.6.7",
+   "grunt": "~0.4.5",
+   "http-server": "~0.8.5"
+ },
+  "homepage": "https://github.com/bruno-vinicius/comquemseama#readme"
+}
